@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>es6-shim</artifactId>
-    <version>0.10.0</version>
+    <version>0.10.1-SNAPSHOT</version>
     <name>es6-shim</name>
     <description>WebJar for es6-shim</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/es6-shim</url>
         <connection>scm:git:https://github.com/webjars/es6-shim.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/es6-shim.git</developerConnection>
-        <tag>es6-shim-0.10.0</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <properties>
